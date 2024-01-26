@@ -1,10 +1,9 @@
-/* Add or modify these styles in your existing CSS file */
+
 
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Use a Netflix-inspired sans-serif font */
-}
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 header {
     background-color: #111;
@@ -126,11 +125,11 @@ nav {
 }
 
 .black-section .column h2 {
-    font-size: 3.5rem; /* Adjust the font size as needed */
+    font-size: 3.5rem;
 }
 
 .black-section .column p {
-    font-size: 1.5rem; /* Adjust the font size as needed */
+    font-size: 1.5rem;
 }
 
 footer {
