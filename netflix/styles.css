@@ -46,7 +46,7 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('Netflix-Background.jpg') center/cover no-repeat;
+    background: url('img/Netflix-Background.jpg') center/cover no-repeat;
 }
 
 .hero-content {
