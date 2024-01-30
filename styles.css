@@ -1,0 +1,123 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  background-image: url('././day.jpg'); 
+  background-size: cover;
+  color: #333;
+}
+
+main {
+  margin-top: 40px; 
+  background-color: rgba(130, 139, 175,0.4);
+  padding: 1px;
+  border-radius: 50px;
+  box-shadow: inset;
+}
+
+hr {
+  max-width: 900px;
+  margin: 32px 0;
+  border: 1px solid #708cb1; 
+  margin-bottom: 80px;
+}
+
+.search-form {
+  margin: 15px 20px; 
+  margin-top: 100px; 
+  padding: 8px 12px; 
+  width:750px; 
+  border-radius: 8px; 
+  border: 2px solid #555; 
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  margin-bottom: 120px;
+}
+
+button {
+  display: inline-block;
+  border: 2px solid #a47057;
+  border-radius: 8px;
+  padding: 8px 12px; /* Adjusted padding */
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  background-color: #b77c49; 
+}
+
+button:hover {
+  background-color: #555; 
+}
+
+.measurements {
+  position: relative;
+  left: 20px;
+  top: -8px; 
+}
+
+.current-weather {
+  margin-top: 40px; 
+}
+
+.city-title {
+  max-width: 280px;
+  font-size: 28px; 
+  font-weight: bold;
+}
+
+.temp-title {
+  font-size: 120px;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  color: #ec7022; 
+}
+
+.todays-info {
+  margin: 12px 0; 
+}
+
+.side-info {
+  position: relative;
+  left: 50px; 
+}
+
+p,
+ul {
+  font-family: "Inter", sans-serif; 
+  font-size: 16px; 
+}
+
+li {
+  list-style: none;
+}
+
+.week-forecast {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+.weather {
+  margin-top: 4px; 
+  margin-bottom: 8px; 
+  font-size: 16px; 
+}
+
+h2 {
+  font-size: 36px; 
+}
+
+h3 {
+  font-size: 18px; 
+  margin-bottom: -14px; 
+}
+
+span {
+  font-size: 18px; 
+}
+
+a {
+  text-decoration: none;
+  color: #ffae00; 
+}
+
+a:hover {
+  color: #fff200; 
+}
